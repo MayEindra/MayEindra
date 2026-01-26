@@ -21,6 +21,7 @@ Statistics @ UBC | Interested in Data + ML
 - [**SQL + Python + Jupyter:** Global Health Indicators (UN + World Bank)](https://github.com/MayEindra/Global-Health-Indicators-UN-World-Bank-SQL-Analysis.git)
 - [**R + Jupyter:** Analysis of Three-Point Shooting Proficiency in NBA Guards](https://github.com/MayEindra/nba-guard-3pt-analysis.git)
 - [**R + Jupyter:** Employee Attrition Prediction (Ridge Logistic Regression)](https://github.com/MayEindra/employee-attrition-prediction.git)
+- [**R + LaTeX:** U.S. Car Price Modeling (Multiple Linear Regression + Feature Selection)](https://github.com/MayEindra/car-price-feature-selection.git)
 
 ### 🧰 Skills
 Python • SQL • R • Jupyter
