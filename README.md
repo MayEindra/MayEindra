@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# About Me
+
+Statistics @ UBC | Interested in Data + ML
+
+## 🚀 Featured Projects
+- [**Java + Swing + JSON:** Genshin Roll Tracker](https://github.com/MayEindra/Global-Health-Indicators-UN-World-Bank-SQL-Analysis.git)
+- [**SQL + Python + Jupyter:** Global Health Indicators (UN + World Bank)](https://github.com/MayEindra/Genshin-Roll-Tracker.git)
+
+## 🧰 Skills
+Python • SQL
+
+## 📫 Contact
+- LinkedIn: [https://www.linkedin.com/in/may-eindra-tet-toe/
+](https://www.linkedin.com/in/may-eindra-tet-toe/)
