@@ -19,9 +19,10 @@ Statistics @ UBC | Interested in Data + ML
 ### 🚀 Featured Projects
 - [**Java + Swing + JSON:** Genshin Roll Tracker](https://github.com/MayEindra/Genshin-Roll-Tracker.git)
 - [**SQL + Python + Jupyter:** Global Health Indicators (UN + World Bank)](https://github.com/MayEindra/Global-Health-Indicators-UN-World-Bank-SQL-Analysis.git)
+- [**R + Jupyter:** Analysis of Three-Point Shooting Proficiency in NBA Guards](https://github.com/MayEindra/nba-guard-3pt-analysis.git)
 
 ### 🧰 Skills
-Python • SQL
+Python • SQL • R • Jupyter
 
 ### 📫 Contact
 - LinkedIn: [https://www.linkedin.com/in/may-eindra-tet-toe/
