@@ -32,3 +32,6 @@ Skills: Data Analysis, Wrangling, Visualization
 - [**R + Jupyter:** Employee Attrition Prediction (Ridge Logistic Regression)](https://github.com/MayEindra/employee-attrition-prediction.git)
 - [**R + LaTeX:** U.S. Car Price Modeling (Multiple Linear Regression + Feature Selection)](https://github.com/MayEindra/car-price-feature-selection.git)
 
+### 📫 Contact:
+- [Linkedin](https://www.linkedin.com/in/may-eindra-tet-toe/)
+- [Tableau](https://public.tableau.com/app/profile/may.eindra.tet.toe/vizzes)
