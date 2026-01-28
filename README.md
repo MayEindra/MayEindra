@@ -14,13 +14,14 @@ Here are some ideas to get you started:
 -->
 
 ### 💬 About Me
-- Enrolled in Bachelors of Statistics at the University of British Columbia.
-- Concentration in Computer Science
+- Enrolled in Bachelors of Science at the University of British Columbia.
+- Major in Statistics and Thematic Concentration in Computer Science
 - Interest in Data Analysis and Data Science roles
 
 
 ### 📈 Skills
 Tools: Python, R, SQL, Tableau, Excel, Jupyter
+
 Skills: Data Analysis, Wrangling, Visualization
 
 
